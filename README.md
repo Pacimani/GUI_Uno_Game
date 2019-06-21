@@ -1,1 +1,1 @@
-# assignment2
+# Graphic User Interface Uno game.
